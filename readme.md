@@ -1,8 +1,6 @@
 <h1 align="center">
 <br>
 
-<br>
-<br>
 Cadastro de Funcionarios
 </h1>
 
@@ -16,7 +14,7 @@ Cadastro de Funcionarios
 
 ## Features
 
-**.Net**
+**.Net**<br>
 **MicrosoftSQL** 
 
 ## Getting started
