@@ -35,7 +35,7 @@ namespace CRUD_Cadastro_de_Funcionarios
         }
 
         SqlConnection sqlConnect = null;
-        private string strConnect = @"Server=DESKTOP-VPO5MAN\SQLEXPRESS;Database=EmpresaFicticia;User Id=sa;Password=@senhafoda2021;";
+        private string strConnect = @"Server=DESKTOP-VPO5MAN\SQLEXPRESS;Database=EmpresaFicticia;User Id=YourUser;Password=YourPassword;";
         private string strSql = string.Empty;
 
         private void btnAdd_Click(object sender, EventArgs e)
