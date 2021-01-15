@@ -1,0 +1,11 @@
+C:\Users\viana\source\repos\CRUD Cadastro de Funcionarios\bin\Debug\CRUD Cadastro de Funcionarios.exe.config
+C:\Users\viana\source\repos\CRUD Cadastro de Funcionarios\bin\Debug\CRUD Cadastro de Funcionarios.exe
+C:\Users\viana\source\repos\CRUD Cadastro de Funcionarios\bin\Debug\CRUD Cadastro de Funcionarios.pdb
+C:\Users\viana\source\repos\CRUD Cadastro de Funcionarios\obj\Debug\CRUD_Cadastro_de_Funcionarios.Menu.resources
+C:\Users\viana\source\repos\CRUD Cadastro de Funcionarios\obj\Debug\CRUD_Cadastro_de_Funcionarios.Properties.Resources.resources
+C:\Users\viana\source\repos\CRUD Cadastro de Funcionarios\obj\Debug\CRUD Cadastro de Funcionarios.csproj.GenerateResource.cache
+C:\Users\viana\source\repos\CRUD Cadastro de Funcionarios\obj\Debug\CRUD Cadastro de Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\viana\source\repos\CRUD Cadastro de Funcionarios\obj\Debug\CRUD Cadastro de Funcionarios.exe
+C:\Users\viana\source\repos\CRUD Cadastro de Funcionarios\obj\Debug\CRUD Cadastro de Funcionarios.pdb
+C:\Users\viana\source\repos\CRUD Cadastro de Funcionarios\obj\Debug\CRUD Cadastro de Funcionarios.csprojAssemblyReference.cache
+C:\Users\viana\source\repos\CRUD Cadastro de Funcionarios\obj\Debug\CRUD_Cadastro_de_Funcionarios.Funcionarios.resources
