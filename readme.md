@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://raw.githubusercontent.com/kevinviana/CRUD-Cadastro-de-Funcionarios/master/images/menu.jpg" alt="Cadastro de Funcionarios" width="450">
+  <img src="https://raw.githubusercontent.com/kevinviana/CRUD-Cadastro-de-Funcionarios/master/images/menu.jpg" alt="Cadastro de Funcionarios" width="300">
 <br>
 <br>
 CRUD Cadastro de Funcionarios
