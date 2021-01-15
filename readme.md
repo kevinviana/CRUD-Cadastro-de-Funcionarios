@@ -15,11 +15,9 @@ Cadastro de Funcionarios
 </p>
 
 ## Features
-[//]: # (Add the features of your project here:)
-This app features all the latest tools and practices in mobile development!
 
-**.Net** — A JavaScript library for building user interfaces
-**MicrosoftSQL** — A lib that provides a way to create native apps for Android and iOS
+**.Net**
+**MicrosoftSQL** 
 
 ## Getting started
 
