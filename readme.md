@@ -1,7 +1,9 @@
 <h1 align="center">
 <br>
-
-Cadastro de Funcionarios
+  <img src="https://raw.githubusercontent.com/kevinviana/CRUD-Cadastro-de-Funcionarios/master/images/menu.jpgL" alt="Cadastro de Funcionarios" width="120">
+<br>
+<br>
+CRUD Cadastro de Funcionarios
 </h1>
 
 <p align="center">Pequeno sistema de cadastro de funcionarios para testar minhas habilidades em C# e sql</p>
