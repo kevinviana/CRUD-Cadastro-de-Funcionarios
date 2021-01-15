@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <--<img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">-->
+
 <br>
 <br>
 Cadastro de Funcionarios
@@ -18,8 +18,8 @@ Cadastro de Funcionarios
 [//]: # (Add the features of your project here:)
 This app features all the latest tools and practices in mobile development!
 
-- ⚛️ **.Net** — A JavaScript library for building user interfaces
-- ⚛️ **MicrosoftSQL** — A lib that provides a way to create native apps for Android and iOS
+**.Net** — A JavaScript library for building user interfaces
+**MicrosoftSQL** — A lib that provides a way to create native apps for Android and iOS
 
 ## Getting started
 
